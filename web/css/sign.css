@@ -1,0 +1,64 @@
+body{
+   background-color: #efefef;
+   margin: 0;
+}
+a:link {color: blue}
+a:visited {color: blue}
+.login_right{
+  width: 360px;
+  height: 450px;
+  padding: 0;
+  margin: 100px 380px 80px 420px;
+}
+.coner{
+  background: #fafeff;
+  border: 1px solid #b5c8d9;
+  position: relative;
+  border-radius: 13px;
+}
+.inne{
+  width: 320px;
+  height: 350px;
+  padding: 40px 40px 0 0;
+  position: relative;
+  text-align: center;
+  font-size: large;
+  font-weight: 600;
+}
+.inne p nobr{
+  font-size: small;
+}
+.topinput{
+  border: 1px solid #7EB5E2;
+  height: 20px;
+  line-height: 20px;
+  width: 165px;
+  ime-mode:disabled;
+  color:black;
+}
+.small_text{
+  font-size: 12px;
+}
+
+.btn_login{
+  background-color: #007aff;
+  color: #fafeff;
+  border: none;
+  font-weight: 700;
+  font-size: 16px;
+  border-radius: 5px;
+  padding: 5px 10px;
+}
+.hr{
+  width: 72%;
+  height: 1px;
+  text-align: center;
+  background-color: #007aff;
+  border: none;
+}
+.register {
+  font-size: 13px;
+}
+.register a{
+  text-decoration: none;
+}
